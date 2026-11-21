@@ -2,7 +2,7 @@
 import cybersecurity
 import python
 
-me.certs = ["Security+ ✅", "Network+ (in progress)"]
+me.certs = ["Security+ certified", "Network+ (in progress)"]
 me.goal = "digital forensics"
 
 while goal.is_important():
